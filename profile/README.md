@@ -11,6 +11,5 @@ Empowering efficient conventional best practices.
 <div align="center">
   <a href="https://www.exlint.io/">Documentation</a> —
   <a href="https://www.exlint.io/guide">Getting Started Guide</a> —
-  <a href="https://www.exlint.io/guide/why">Why a new test runner</a>
 </div>
 
