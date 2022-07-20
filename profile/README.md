@@ -8,8 +8,3 @@ Exlint
 <p align="center">
 Empowering efficient conventional best practices.
 <p>
-<div align="center">
-  <a href="https://www.exlint.io/">Documentation</a> —
-  <a href="https://www.exlint.io/guide">Getting Started Guide</a>
-</div>
-
