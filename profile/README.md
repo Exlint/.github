@@ -6,5 +6,5 @@
 Exlint
 </h1>
 <p align="center">
-Empowering efficient conventional best practices.
+Empowering conventional coding best practices.
 <p>
