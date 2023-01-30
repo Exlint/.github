@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/banner.png" height="400">
+<img src="assets/exlint-banner.png" height="400">
 </p>
 
 <h1 align="center">
