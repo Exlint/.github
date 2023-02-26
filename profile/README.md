@@ -16,10 +16,10 @@ Empowering conventional coding best practices.
     	<img src="https://img.shields.io/npm/dm/@exlint.io/cli?logo=NPM" alt="npm downloads">
   	</a>
 	<a href="https://docs.exlint.io/#quickstart">
-    	<img src="https://img.shields.io/badge/Quick_Start-purple?style=flat-square&logoColor=white&logo=DocuSign" alt="version">
+    	<img src="https://img.shields.io/badge/Quick_Start-purple?style=flat&logoColor=white&logo=DocuSign" alt="version">
   	</a>
 		<a href="https://join.slack.com/t/exlint-io/shared_invite/zt-1ombwjchz-iKziYNc~eZuNUy2gH68N1w">
-    	<img src="https://img.shields.io/badge/Slack-yellow?style=flat-square&logoColor=white&logo=slack" alt="version">
+    	<img src="https://img.shields.io/badge/Slack-yellow?style=flat&logoColor=white&logo=slack" alt="version">
   	</a>
 </p>
 
