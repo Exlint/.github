@@ -1,16 +1,16 @@
-<h1 align="center">
-Exlint
-</h1>
-<p align="center">
-Empowering conventional coding best practices.
-<p>
+
 
 <p align="center">
   <a href="https://docs.exlint.io">
     <img height="400" src="assets/exlint-banner.png" />
   </a>
 </p>
-<h2 align="center">Exlint</h2>
+<h2 align="center">
+Exlint
+</h2>
+<p align="center">
+Empowering conventional coding best practices.
+<p>
 <p align="center">
 	<a href="https://www.npmjs.com/package/@exlint.io/cli">
     	<img src="https://img.shields.io/npm/dm/@exlint.io/cli?logo=NPM" alt="npm downloads">
