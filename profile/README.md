@@ -45,7 +45,7 @@ Exlint is open source and entirely free for use.
 
 ### Step 1: Install Exlint
 
-To use `Exlint` locally, run:
+To use `Exlint` globally, run:
 
 ```bash
 npm install -g @exlint.io/cli
