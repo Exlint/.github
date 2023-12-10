@@ -9,7 +9,7 @@
 Exlint
 </h2>
 <p align="center">
-IMPORTANT: EXLINT IS NOT MAINTAINED, USE WITH CAUTION.
+IMPORTANT: THE EXLINT PROJECT IS NOT MAINTAINED, USE WITH CAUTION.
 <p>
 <p align="center">
 	<a href="https://www.npmjs.com/package/@exlint.io/cli">
